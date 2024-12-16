@@ -23,8 +23,8 @@ This application lets an employer see a job-canditate's online portfolio.
 
 |        |  | 
 | ------------- |:-------------:| 
-|                  |  | 
-|                  |  | 
+| HTML             |  | 
+| CSS              |  | 
 |                  |  |
 |                  |  |   
 |                  |  |  
@@ -34,7 +34,7 @@ This application lets an employer see a job-canditate's online portfolio.
 |                  |  |
 |                  |  |
 | Netlify          |  |
-|________________________|
+|                     |
 
 ## User Story 
 
