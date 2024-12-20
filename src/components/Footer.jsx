@@ -1,9 +1,9 @@
-// const Footer=()=>{
-//     return(
-//         <footer className="mt-5">
-//             2024
-//         </footer>
-//     )
-// }
+const Footer=()=>{
+    return(
+        <footer className="mt-5">
+            
+        </footer>
+    )
+}
 
-// export default Footer;
+export default Footer;
