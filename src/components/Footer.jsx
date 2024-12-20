@@ -1,8 +1,8 @@
 const Footer=()=>{
     return(
-        <footer className="mt-5">
-            2024
-        </footer>
+        // <footer className="mt-5">
+        //     2024
+        // </footer>
     )
 }
 
