@@ -1,8 +1,9 @@
 import NavTabs from "./NavTabs";
-const Header=()=>{
-    return(
+const Header = () => {
+    return (
         <div className="mt-5">
-         <NavTabs/>
+            My React Portfolio
+            <NavTabs />
         </div>
     )
 }
