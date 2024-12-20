@@ -25,14 +25,9 @@ This application lets an employer see a job-canditate's online portfolio.
 | ------------- |:-------------:| 
 | HTML             |  | 
 | CSS              |  | 
-|                  |  |
-|                  |  |   
-|                  |  |  
-|                  |  |
-|                  |  |
-|                  |  |
-|                  |  |
-|                  |  |
+| React            |  |
+| JSON             |  |   
+| Bootstrap        |  |
 | Netlify          |  |
 |                     |
 
@@ -53,7 +48,7 @@ N/A
 
 ## Usage 
 
-______?????______
+To use this website, there are four different tabs you can click on near the top of the page. You can click on 'About Me' to see a brief description. You can click on 'Portfolio' to see some of the different coding projects I have worked on. You can click on 'Contact' if you want to see how to contact me. And finally, you can click on 'Resume' to see all of my job experience and qualifications in case you are looking to hire me.
 
 ## Contributors/Author Info
 
@@ -65,4 +60,4 @@ MIT License.
 
 ## Deployed Link
 
-______?????______
+https://my-deployed-react-portfolio.netlify.app 
